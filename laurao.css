@@ -7,5 +7,5 @@ h1 {
 }
 
 p.ex {
-	color: rgb(0,0,255);
+	filter: blue;
 }
