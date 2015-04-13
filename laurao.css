@@ -5,5 +5,5 @@ body {
 }
 
 img {
-	filter: rgb(204, 0, 0);
+	filter: sepia();
 }
