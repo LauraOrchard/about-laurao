@@ -5,5 +5,5 @@ body {
 }
 
 img {
-	filter: sepia();
+	-webkit-filter: sepia(100%);
 }
