@@ -7,3 +7,7 @@ body {
 img {
 	filter: sepia(1);
 }
+
+img.hover {
+
+}
